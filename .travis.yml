@@ -1,0 +1,4 @@
+language: ruby
+sudo: false
+script:
+    - ruby test-mathjax.rb
